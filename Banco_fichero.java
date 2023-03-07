@@ -244,7 +244,7 @@ public class Banco_fichero {
     
     public static void main(String[] args) throws IOException {
         int op;
-        
+        int proyecto
         do{
         op=menu();
         
