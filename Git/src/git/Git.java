@@ -8,6 +8,8 @@ public class Git {
         
         int numero=0;
         
+        String nombre="JAIME";
+        
     }
     
 }
