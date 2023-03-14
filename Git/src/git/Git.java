@@ -8,7 +8,7 @@ public class Git {
         
         int numero=0;
         
-        String nombre="JAIME";
+        String nombre="J";
         
         System.out.println("Modificacion");
         
